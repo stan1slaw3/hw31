@@ -1,0 +1,46 @@
+.top{
+    width: 100%;
+    height: 300px;
+    background-color: cornflowerblue;
+    font-size: 100px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border: 2px white;
+
+}
+.gaymid{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.mid{
+   width: 700px;
+    height: 300px;
+    background-color: purple;
+    display: flex;
+    margin: 10px;
+    justify-content: space-evenly;
+    font-size: 80px;
+    align-items: center;
+}
+.bottom{
+    width: 100%;
+    height: 900px;
+    background-color: cornflowerblue;
+    font-size: 100px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border: 2px white;
+
+;
+
+}
+.mid{
+    width: 100%;
+    height: 100%;
+}
