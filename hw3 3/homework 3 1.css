@@ -3,6 +3,7 @@ html{
 }
 body{
     margin: 0;
+
 }
 #black{
     width: 100vw;
@@ -15,9 +16,9 @@ body{
 
 }
 img{
-    width: 50px;
+    width: 30px;
     display: flex;
-    margin-top: 30vh;
+    margin:20vh 0 30px 0;
 }
 h1{
     font-size: 100px;
@@ -37,9 +38,31 @@ p{
     flex-direction: column;
 }
 img{
-    width: 50px;
+    width: 30px;
     display: flex;
-    margin-top: 30vh;
+    margin:30px 0 30px 0;
+}
+h1{
+    font-size: 100px;
+}
+p{
+    font-size: 30px;
+    margin-top: 10vh;
+    padding: 0 50px 0 50px;
+}
+#white{
+    width: 100vw;
+    height: 100vh;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+img{
+    width: 30px;
+    display: flex;
+    margin:30px 0 30px 0;
 }
 h1{
     font-size: 100px;
